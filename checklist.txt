@@ -1,0 +1,5 @@
+STUDENT'S CHECKLIST: INTEGRATED SUMMATIVE ASSESSMENT - GizmoGrove Electronics
+Subtask 1: Storyboard (mapped) - Title, site plan, pages, linking, sketches included.
+Subtask 2: Front-end design - Home, header, nav, external stylesheet (styles/style.css), footer, contents, links, multimedia (product images).
+Order form - Functional with JS validation, stores simulated orders to localStorage, provides WhatsApp confirmation link.
+Focus products for this assignment: audio peripherals, speakers, sound cards, headphones, DACs
